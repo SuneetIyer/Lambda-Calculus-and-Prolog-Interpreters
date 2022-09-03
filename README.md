@@ -1,6 +1,6 @@
 # Lambda-Calculus-and-Prolog-Interpreters
 
-This repository contains implementations of interpreters for lambda calculus and Prolog written in OCaml.
+This repository contains implementations of interpreters for [lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus) and Prolog written in OCaml.
 
 The Lambda calculus interpreter is capable of reducing lambda expressions using different reduction strategies like call-by-order, call-by-name and normal order.
 
